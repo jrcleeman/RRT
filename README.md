@@ -6,8 +6,8 @@
 
 Refrences:
 
-http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf
-https://www.cs.cmu.edu/~motionplanning/lecture/lec20.pdf
-https://www.topcoder.com/thrive/articles/Geometry%20Concepts%20part%202:%20%20Line%20Intersection%20and%20its%20Applications
-http://paulbourke.net/geometry/pointlineplane/
-https://ericleong.me/research/circle-line/
+- http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf
+- https://www.cs.cmu.edu/~motionplanning/lecture/lec20.pdf
+- https://www.topcoder.com/thrive/articles/Geometry%20Concepts%20part%202:%20%20Line%20Intersection%20and%20its%20Applications
+- http://paulbourke.net/geometry/pointlineplane/
+- https://ericleong.me/research/circle-line/
