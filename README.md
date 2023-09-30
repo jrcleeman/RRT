@@ -1,4 +1,4 @@
-# Rapidly Exploring Random Trees (RRT)
+# Python Implementation of Rapidly Exploring Random Trees (RRT)
 - Create new obstacle fields in obstacleBuilder.py
 - Run rrt.py to execute path planning
 
